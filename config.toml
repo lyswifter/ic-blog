@@ -22,7 +22,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = "https://storageapi.fleek.co/lyswifter-team-bucket/favicon.ico"
+  favicon = "https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/favicon.ico"
   site_logo = "https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/icp-logo2.png"
   description = "the very beginning place of Dfinity and the Internet Computer"
   facebook = ""
