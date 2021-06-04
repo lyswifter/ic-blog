@@ -23,7 +23,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = "https://storageapi.fleek.co/lyswifter-team-bucket/favicon.ico"
-  site_logo = "https://storageapi.fleek.co/lyswifter-team-bucket/dfinity-logo.png"
+  site_logo = "https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/icp-logo3.jpeg"
   description = "the very beginning place of Dfinity and the Internet Computer"
   facebook = ""
   twitter = ""
