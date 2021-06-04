@@ -1,32 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>http://example.org/posts/first-post/</loc>
+    <loc>https://3duu6-syaaa-aaaad-qadtq-cai.ic.fleek.co/posts/deep-dive-into-rust-for-node.js-developers/</loc>
+    <lastmod>2021-06-03T18:18:48+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://3duu6-syaaa-aaaad-qadtq-cai.ic.fleek.co/</loc>
+    <lastmod>2021-06-03T18:18:48+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://3duu6-syaaa-aaaad-qadtq-cai.ic.fleek.co/posts/</loc>
+    <lastmod>2021-06-03T18:18:48+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://3duu6-syaaa-aaaad-qadtq-cai.ic.fleek.co/posts/introduct-icp/</loc>
+    <lastmod>2021-06-03T17:53:23+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://3duu6-syaaa-aaaad-qadtq-cai.ic.fleek.co/posts/introduction-of-the-ic/</loc>
+    <lastmod>2021-06-03T17:50:35+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://3duu6-syaaa-aaaad-qadtq-cai.ic.fleek.co/posts/first-post/</loc>
     <lastmod>2021-06-03T15:32:56+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://3duu6-syaaa-aaaad-qadtq-cai.ic.fleek.co/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://3duu6-syaaa-aaaad-qadtq-cai.ic.fleek.co/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2021-06-03T15:32:56+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2021-06-03T15:32:56+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
 </urlset>

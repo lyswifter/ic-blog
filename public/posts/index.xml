@@ -1,23 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on ICP Foundation</title>
+    <link>https://3duu6-syaaa-aaaad-qadtq-cai.ic.fleek.co/posts/</link>
+    <description>Recent content in Posts on ICP Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Jun 2021 15:32:56 +0800</lastBuildDate>
-    
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 03 Jun 2021 18:18:48 +0800</lastBuildDate><atom:link href="https://3duu6-syaaa-aaaad-qadtq-cai.ic.fleek.co/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Dive Into Rust for Node</title>
+      <link>https://3duu6-syaaa-aaaad-qadtq-cai.ic.fleek.co/posts/deep-dive-into-rust-for-node.js-developers/</link>
+      <pubDate>Thu, 03 Jun 2021 18:18:48 +0800</pubDate>
+      
+      <guid>https://3duu6-syaaa-aaaad-qadtq-cai.ic.fleek.co/posts/deep-dive-into-rust-for-node.js-developers/</guid>
+      <description>With the advent of WebAssembly (home) there has never been a better time to learn Rust on top of your existing JavaScript and Node.js knowledge for high performance computing in the browser, on the server and on the edge.
+Adding Rust to your tech stack on top of Node.js is a match made in heaven as Rust provides advanced support for WebAssembly and WebAssembly binary format is runnable in Node.js. With this deep dive, you will get up and running using Rust.</description>
+    </item>
     
     <item>
-      <title>First Post</title>
-      <link>http://example.org/posts/first-post/</link>
+      <title>Introduct ICP</title>
+      <link>https://3duu6-syaaa-aaaad-qadtq-cai.ic.fleek.co/posts/introduct-icp/</link>
+      <pubDate>Thu, 03 Jun 2021 17:53:23 +0800</pubDate>
+      
+      <guid>https://3duu6-syaaa-aaaad-qadtq-cai.ic.fleek.co/posts/introduct-icp/</guid>
+      <description>Within the Internet Computer ecosystem, Internet Computer Protocol tokens (ICP tokens) are a native utility token with a value determined on the open market. ICP tokens play a key role in both the governance and economics of the Internet Computer.
+How you can get ICP tokens As a utility token for the Internet Computer, there are a few different ways you might acquire ICP tokens. For example, you might:
+ Purchase ICP tokens directly through an exchange that lists ICP tokens available for trade.</description>
+    </item>
+    
+    <item>
+      <title>Introduction of the Internet Computer</title>
+      <link>https://3duu6-syaaa-aaaad-qadtq-cai.ic.fleek.co/posts/introduction-of-the-ic/</link>
+      <pubDate>Thu, 03 Jun 2021 17:50:35 +0800</pubDate>
+      
+      <guid>https://3duu6-syaaa-aaaad-qadtq-cai.ic.fleek.co/posts/introduction-of-the-ic/</guid>
+      <description>The Internet Computer is a completely novel public blockchain that can run at web speed and scale without bounds.
+Just like the internet is created by the IP protocol, the Internet Computer is created by a decentralized protocol (ICP) that weaves together the compute capacity of node machines running at independent data centers across the globe. By simply adding more node machines, the capacity of the Internet Computer blockchain can scale infinitely.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the DFINITY Discourse Forum</title>
+      <link>https://3duu6-syaaa-aaaad-qadtq-cai.ic.fleek.co/posts/first-post/</link>
       <pubDate>Thu, 03 Jun 2021 15:32:56 +0800</pubDate>
       
-      <guid>http://example.org/posts/first-post/</guid>
-      <description></description>
+      <guid>https://3duu6-syaaa-aaaad-qadtq-cai.ic.fleek.co/posts/first-post/</guid>
+      <description>Welcome to the DFINITY Discourse Forum!
+In this post, you’ll find some helpful information and resources about DFINITY as well as some guidelines for contributing to and interacting within our forum.
+Introduction to DFINITY and the Internet Computer
+DFINITY is a not-for-profit foundation dedicated to developing and supporting the Internet Computer. The Internet Computer is extending the internet by providing new functionality to host software and services directly on the internet.</description>
     </item>
     
   </channel>
