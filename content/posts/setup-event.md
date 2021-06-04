@@ -1,6 +1,7 @@
 ---
 title: "启动仪式"
 date: 2021-06-04T15:26:51+08:00
+summary: 5月11日14:00，由ICP Foundation主办的“Dfinity启动仪式——互联网计算机， 区块链新定义”拉开帷幕，众多行业大咖齐聚一堂共讨互联网技术未来发展蓝图。ICP Foundation是全面布局Web3.0未来发展的Dfinity专项生态基金会，首期出资额1000万美金
 draft: false
 ---
 ![](https://storageapi.fleek.co/lyswifter-team-bucket/posts/setup-event.jpg "启动仪式")
