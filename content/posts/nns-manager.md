@@ -8,29 +8,29 @@ summary: "Dfinity实现了一个自治化的区块链系统，使得传统应用
 Dfinity实现了一个自治化的区块链系统，使得传统应用在去中心化体系下的可能性。Dfinity实现自治化很重要的一个特色是全网维护一个开放式的网络神经元系统(NNS)，通过算法的方式实现了民主投票和民主决策。本文介绍了如何成为治理体系的一员：抵押神经元。
 
 ### 01
-打开神经元管理界面 （https://nns.ic0.app/）
+打开神经元管理界面 [](https://nns.ic0.app/)
 >注：
 >请使用带有指纹识别,或者人脸识别功能的设备以便进行身份注册;
 >请使用Firfox或者Safari浏览器,Chrome暂不支持。
-![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create NNS/1.png)
+![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create "NNS/1.png")
 
 ### 02
-点击登录，此时如果账号已存在，需要获取设备上存储的身份信息(指纹,面部信息,Yubikey硬件钱包)。如果没有注册身份认证，则跳转到https://identity.ic0.app/进行身份注册。Dfinity不需要在各个应用都去注册新身份,有了这个唯一标识就可以全网畅游。
-![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create NNS/2.1.png)
-![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create NNS/2.2.png)
-![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create NNS/2.3.png)
-![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create NNS/2.4.png)
+点击登录，此时如果账号已存在，需要获取设备上存储的身份信息(指纹,面部信息,Yubikey硬件钱包)。如果没有注册身份认证，则跳转到[](https://identity.ic0.app/)进行身份注册。Dfinity不需要在各个应用都去注册新身份,有了这个唯一标识就可以全网畅游。
+![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create "NNS/2.1.png")
+![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create "NNS/2.2.png")
+![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create "NNS/2.3.png")
+![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create "NNS/2.4.png")
 
 ### 03
 认证成功之后，你会获得一个全网唯一Number，请务必牢记！以后导出身份到新设备的时候需要用到。
 
 ### 04
 请在多台设备上对你的身份进行备份，以免单台设备遗失，造成不必要的损失。在登录界面,，点击"Already registered but using a new device?"，输入你的唯一Number，导出界面连接在原来完成验证的设备上面打开，点击确认进行身份确认；或者也可以选择扫描二维码打开授权页面。
-![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create NNS/4.1.png)
+![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create "NNS/4.1.png")
 
 ### 05
-注册好账号之后，重新访问 https://nns.ic0.app/ ，输入刚才的唯一标识number(例如:70162)，进行身份认证之后，就可以登录你的钱包和神经元管理页面了。
-![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create NNS/5.1.png)
+注册好账号之后，重新访问 [](https://nns.ic0.app/) ，输入刚才的唯一标识number(例如:70162)，进行身份认证之后，就可以登录你的钱包和神经元管理页面了。
+![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create "NNS/5.1.png")
 
 这时候你会发现系统已经默认给你创建了一个主钱包账户，你也可以需要添加子账户。在下面的步骤中，你需要往改钱包转入至少1.2个ICP进行神经元创建。
 
@@ -43,16 +43,16 @@ Dfinity实现了一个自治化的区块链系统，使得传统应用在去中�
 
 换句话说就是对于单个提案，越多的人参与投票，奖励越小;你赞成的提案通过率越高，收益越高。
 
-![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create NNS/7.1.png)
+![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create "NNS/7.1.png")
 上图展示了您的拥有的神经元、以及溶解时延、质押数量
-![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create NNS/7.2.png)
+![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create "NNS/7.2.png")
 上图展示了神经元的成熟度，和投票历史记录
-![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create NNS/7.3.png)
+![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create "NNS/7.3.png")
 上图展示了网络中开放投票的提案
-![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create NNS/7.4.png)
+![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create "NNS/7.4.png")
 上图展示了您设置跟随的神经元节点，值得注意的是不同的提案类型，您可以分开设置跟随的对象
 也可以直接自己投票，打开vote页面，查看提案详情，选择是adopt还是reject。
-![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create NNS/7.5.png)
+![](https://storageapi.fleek.co/lyswifter-team-bucket/ice-foundation/Create "NNS/7.5.png")
 
 ### 08
 这样下来，就拥有了自己的治理神经元，随着网络中提案的增多，神经元会更快的成熟，一旦成熟度达到10%，您就可以基于这个神经元生成一个包含奖励ICP的神经元，(新神经元中ICP的个数 = 老神经元icp数量 * 成熟度)，并立即溶解这个神经元，这样就可以获得其中的ICP奖励;也可以将暂时不溶解此神经元，而是让其自动跟随旧神经元，相当于复投。
