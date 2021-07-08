@@ -2,7 +2,7 @@
 title: "ICP基金会简介"
 date: 2021-06-01T13:11:18+08:00
 draft: false
-summary: Web3.0未来发展的Dfinity专项生态基金会
+summary: ICP基金会全面布局Web3.0未来发展的Dfinity专项生态基金会，首期生态基金已完成募资1000万美金。基金会将致力于深耕互联网计算机生态项目投资，搭建链接传统产业应用与去中心化互联网计算机网络的桥梁，并赋予所投资的项目“媒体宣发、项目路演、社群导流、技术孵化、产业对接”等全站式支持。
 ---
 
 ![](https://storageapi.fleek.co/lyswifter-team-bucket/posts/ICP-Foundation.jpg "ICP-Foundation")
