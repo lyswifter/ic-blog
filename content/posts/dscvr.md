@@ -1,6 +1,6 @@
 ---
 title: "Dfinity生态项目介绍一：DSCVR"
-date: 2021-06-04T19:11:18+08:00
+date: 2021-06-07T19:11:18+08:00
 draft: false
 summary: 今天Dfinity基金会宣布了2亿瑞士法郎的互联网计算机开发者生态系统计划，这一资源将帮助资助Dfinity上的dapps、工具和基础设施的建设。Dfinity将以不占有股份或代币的形式资助开发者，在 dfinity.org/grants 上即可进行申请。DSCVR是一个准备对标Reddit的社交平台，目前正处于测试版。不同于Reddit的开发是由其最专注的社区成员管理，DSCVR的用户不仅控制内容，而且控制平台本身，他们决定平台的命运。因此最喜欢、使用和关心这个平台的人将是控制这个平台的人。
 featured_image: https://storageapi.fleek.co/lyswifter-team-bucket/posts/dscvr.jpg
