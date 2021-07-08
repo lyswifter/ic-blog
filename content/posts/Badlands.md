@@ -3,9 +3,10 @@ title: "ICP基金会：介绍互联网计算机的“Badlands”概念"
 date: 2021-07-06T13:11:18+08:00
 draft: false
 summary: Badlands是应用互联网计算机技术创建的一个新的网络，通过使用低成本的设备，可以为智能合约创造最大程度的去中心化和抵制审查。它将作为互联网计算机的扩展，可以完全互操作，但具有不同的属性。
-featured_image: https://storageapi.fleek.co/lyswifter-team-bucket/posts/badlands/1_H_yp_VaWKh3C8vc0ammdAQ.jpeg
+
 ---
 
+![](https://storageapi.fleek.co/lyswifter-team-bucket/posts/badlands/1_H_yp_VaWKh3C8vc0ammdAQ.jpeg "1_H_yp_VaWKh3C8vc0ammdAQ")
 
 
 Badlands是应用互联网计算机技术创建的一个新的网络，通过使用低成本的设备，可以为智能合约创造最大程度的去中心化和抵制审查。它将作为互联网计算机的扩展，可以完全互操作，但具有不同的属性。  
