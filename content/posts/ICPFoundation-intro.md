@@ -3,7 +3,7 @@ title: "ICP基金会简介"
 date: 2021-06-01T13:11:18+08:00
 draft: false
 summary: Web3.0未来发展的Dfinity专项生态基金会
-featured_image: https://storageapi.fleek.co/lyswifter-team-bucket/posts/canistore.jpg
+featured_image: https://storageapi.fleek.co/lyswifter-team-bucket/posts/ICP-Foundation.jpg
 ---
 
 
