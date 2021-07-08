@@ -10,7 +10,8 @@ featured_image: https://storageapi.fleek.co/lyswifter-team-bucket/posts/canistor
 官网：点击[这里](https://canistore.io/)
 推特：点击[这里](https://twitter.com/canistore)
 
-
+<br />
+<br />
 ## 核心概念
 
 Canistore是一个数字媒体服务提供商，由音频/视频内容创建者、订阅用户和广告商组成的社区进行治理。用户可以在上面存储、出售、分享自己的照片、音乐、视频。
@@ -20,7 +21,8 @@ Canistore是一个数字媒体服务提供商，由音频/视频内容创建者�
 Canistore（Alpha） 许可协议允许社区上传、许可和安全存储内容。此上传不仅带有时间戳以证明所有权，而且还包括全球音乐行业公认的具有法律约束力的协议。用户还可以选择将他们的数字媒体存储到开发后期，届时他们可以将内容制作为 NFT，以实现货币化/销售。如果用户没有上传内容，他们可以发现社区其他成员公开列出的内容。
 
 
-  
+<br />
+<br />
 ## 项目进程
 
 ### 2020Q2：
@@ -45,7 +47,8 @@ Canistore（Alpha） 许可协议允许社区上传、许可和安全存储内�
 studio上线；发布合作公告；Beta 测试
 
 
-
+<br />
+<br />
 ## 团队介绍
 
 Barry Paisley，首席执行官。在媒体制作行业有着超过5年的工作经验。擅长音乐管理、社交媒体管理、内容创作、品牌塑造、视频编辑、音频制作、动画、青年工作、青年领导力和管理。
@@ -54,8 +57,11 @@ Mohamed Ezeldin，Token Advisor。擅长数据分析，在开发代币经济学�
 
 Gregory Farrer，Project Advisor。剑桥大学毕业。从2013年起开始做Creative Consultant，2019.4至今，担任Dfinity的Creative。
 
-
+<br />
+<br />
 点击[这里](https://3duu6-syaaa-aaaad-qadtq-cai.ic.fleek.co/posts/dfistarter/)可以查看Dfinity生态项目介绍二：Dfistarter
+<br />
+<br />
 
 ---
 
